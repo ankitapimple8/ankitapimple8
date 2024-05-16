@@ -11,13 +11,6 @@
 
 - ⚡ Fun fact **I love reading novels and currently writing one.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ankita-pimple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-pimple" height="30" width="40" /></a>
-<a href="https://instagram.com/ankita_0708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankita_0708" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ankipimple8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankipimple8" height="30" width="40" /></a>
-</p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitapimple8&layout=compact)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +18,9 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ankitapimple8&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ankitapimple8/github-readme-stats#gh-dark-mode-only)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankita-pimple" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankita-pimple" height="30" width="40" /></a>
+<a href="https://instagram.com/ankita_0708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankita_0708" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ankipimple8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ankipimple8" height="30" width="40" /></a>
+</p>
