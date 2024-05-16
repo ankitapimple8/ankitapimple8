@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Ankita Pimple</h1>
 <h3 align="center">A Student, Business Developer and Project Manager</h3>
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/woman-coding-on-laptop-11079504" >
 
 - 🔭 I’m currently working on **strategic projects**
 
