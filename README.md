@@ -26,10 +26,8 @@
 </ul>
 <h1>Checkut my novel's list</h1>
 <ul>
-    <li><a href="https://www.wattpad.com/user/Rosie0708" target="_blank">My Wattpad/a></li>
+    <li><a href="https://www.wattpad.com/user/Rosie0708" target="_blank">My Wattpad</a></li>
 </ul>
-        
-<h1>Blog Links</h1>
 <h2>Project Management Trends:</h2>
 <ul>
     <li><a href="https://blog.hubspot.com/agency/project-management-trends" target="_blank">Top Project Management Trends to Watch</a></li>
