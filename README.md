@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankita Pimple</h1>
+<h1>Hi 👋, I'm Ankita Pimple</h1>
 <h3 align="center">A student, Business Developer and Project Manager !</h3>
 
 - 🔭 I’m currently working on **strategic projects**
