@@ -10,3 +10,4 @@ Here are some ideas about me:
 - 👯 I’m looking to collaborate on innovative projects for scalable solutions.
 - ⚡ Fun fact: I love reading and currently I am writing book 📚
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitapimple8&hide_progress=true)
