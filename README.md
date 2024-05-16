@@ -24,7 +24,7 @@
     <li><a href="https://www.youtube.com/user/TableauSoftware" target="_blank">Tableau Software</a></li>
     <li><a href="https://www.youtube.com/channel/UCU9MN7AF0EnQ7JfNQJbVQ2A" target="_blank">The Data School</a></li>
 </ul>
-<h1>Checkut my novel's list</h1>
+<h1>Checkout my novel's list</h1>
 <ul>
     <li><a href="https://www.wattpad.com/user/Rosie0708" target="_blank">My Wattpad</a></li>
 </ul>
