@@ -3,7 +3,7 @@
 
 **ankitapimple8/ankitapimple8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas about me:
 
 - 🔭 I’m currently working on strategic projects to drive business growth.
 - 🌱 I’m currently learning everything !!
