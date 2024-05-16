@@ -28,6 +28,28 @@
 <ul>
     <li><a href="https://www.wattpad.com/user/Rosie0708" target="_blank">My Wattpad/a></li>
 </ul>
+<h1>Blog Links</h1>
+
+<h2>Project Management Trends:</h2>
+<ul>
+    <li><a href="https://blog.hubspot.com/agency/project-management-trends" target="_blank">Top Project Management Trends to Watch</a></li>
+    <li><a href="https://www.wrike.com/blog/project-management-trends/" target="_blank">Key Project Management Trends for Success</a></li>
+    <li><a href="https://www.smartsheet.com/project-management-trends" target="_blank">2024 Project Management Trends Report</a></li>
+</ul>
+
+<h2>Tech Trends:</h2>
+<ul>
+    <li><a href="https://www.forbes.com/technology/" target="_blank">Forbes Technology News</a></li>
+    <li><a href="https://techcrunch.com/" target="_blank">TechCrunch</a></li>
+    <li><a href="https://www.wired.com/category/tech/" target="_blank">Wired Technology Section</a></li>
+</ul>
+
+<h2>Business Related:</h2>
+<ul>
+    <li><a href="https://hbr.org/" target="_blank">Harvard Business Review</a></li>
+    <li><a href="https://www.entrepreneur.com/topic/business-trends" target="_blank">Entrepreneur - Business Trends</a></li>
+    <li><a href="https://www.inc.com/" target="_blank">Inc.com - Small Business Ideas</a></li>
+</ul>
 
     
 <h3 align="left">Connect with me:</h3>
