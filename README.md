@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankita Pimple</h1>
-<h3 align="center">A passionate project manager from India</h3>
+<h3 align="center">A student, Business Developer and Project Manager !</h3>
 
 - 🔭 I’m currently working on **strategic projects**
 
