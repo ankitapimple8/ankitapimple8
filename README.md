@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **everything!**
 
-- 👯 I’m looking to collaborate on **innovative pprojects for scalable solutions**
+- 👯 I’m looking to collaborate on **innovative projects for scalable solutions**
 
 - 📫 How to reach me **pimpleankita.work@gmail.com**
 
